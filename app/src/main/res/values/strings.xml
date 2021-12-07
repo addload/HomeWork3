@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="text_button">text button</string>
+    <string name="bold_text">Bold Text</string>
+    <string name="italic_text">Italic Text</string>
+    <string name="new_button">new button</string>
+    <string name="outlined_button">Outlined Button</string>
+</resources>
